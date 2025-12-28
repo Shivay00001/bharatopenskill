@@ -1,0 +1,8 @@
+{
+  "name": "SkillBharat Open Pro",
+  "description": "Nation-scale AI-powered skill mission platform with virtual teachers and multimodal doubt solving.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
